@@ -1,0 +1,2 @@
+# SzekelyData
+Adatvizualizációs pályázat
